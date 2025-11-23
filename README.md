@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NisanaHameed.
-- 👀 I’m interested in software development,currently focusing on MERN stack.
+- 👀 I’m interested in software development.
 - 🌱 As a dedicated software enthusiast,I find joy in problem-solving and crafting dynamic,user-centric online experiences.
 - 📫 Reach me at nisana686@gmail.com.
 
